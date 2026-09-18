@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,45:0a2540,100:0078D4&text=Yasaswini%20Tanniru&fontColor=ffffff&fontSize=54&fontAlignY=34&desc=Infra%20Managed%20Service%20Analyst%20%7C%20Cloud%20%26%20AI%20Platform%20Infrastructure%20Engineer&descSize=20&descAlignY=56&animation=fadeIn" alt="Yasaswini Tanniru - Cloud and AI Platform Infrastructure Engineer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,45:0a2540,100:0078D4&text=Yasaswini%20Tanniru&fontColor=ffffff&fontSize=54&fontAlignY=34&desc=Infra%20Managed%20Service%20Analyst%20%7C%20Cloud%20%26%20AI%20Platform%20Infrastructure%20Engineer&descSize=20&descAlignY=56&animation=fadeIn" alt="Yasaswini Tanniru - Cloud and AI Platform Engineer" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=4FC3F7&center=true&vCenter=true&width=820&lines=Azure+Cloud+%26+AI+Platform+Operations;Terraform+%7C+Observability+%7C+Automation;Bengaluru%2C+India" alt="Typing animation" />
 
