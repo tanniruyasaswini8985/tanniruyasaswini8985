@@ -21,7 +21,7 @@
 
 ## About Me
 
-I am an **Infra Managed Service Analyst** working as a **Cloud & AI Platform Infrastructure Engineer** in Bengaluru, India. I design, automate, and operate Azure-based enterprise platforms, with hands-on experience across AI platform operations, monitoring, and Infrastructure as Code.
+I am working as a **Cloud & AI Platform Engineer** in Bengaluru, India. I design, automate, and operate Azure-based enterprise platforms, with hands-on experience across AI platform operations, monitoring, and Infrastructure as Code.
 
 <table>
 <tr>
